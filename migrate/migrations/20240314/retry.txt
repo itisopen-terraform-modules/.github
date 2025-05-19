@@ -1,2 +1,2 @@
-cloudposse/terraform-aws-dynamic-subnets
-cloudposse/terraform-aws-efs
+itisopen/terraform-aws-dynamic-subnets
+itisopen/terraform-aws-efs

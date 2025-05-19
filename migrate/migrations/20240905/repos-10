@@ -1,4 +1,4 @@
-cloudposse/terraform-aws-code-deploy
-cloudposse/terraform-aws-iam-policy
-cloudposse/terraform-artifactory-kv-store
-cloudposse/terraform-aws-batch
+itisopen/terraform-aws-code-deploy
+itisopen/terraform-aws-iam-policy
+itisopen/terraform-artifactory-kv-store
+itisopen/terraform-aws-batch

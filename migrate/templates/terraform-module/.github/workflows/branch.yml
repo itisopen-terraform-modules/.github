@@ -21,5 +21,5 @@ permissions: {}
 
 jobs:
   terraform-module:
-    uses: cloudposse/.github/.github/workflows/shared-terraform-module.yml@main
+    uses: itisopen/.github/.github/workflows/shared-terraform-module.yml@itisopen
     secrets: inherit

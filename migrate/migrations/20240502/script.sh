@@ -1,4 +1,4 @@
-title "Use GitHub Action Workflows from \`cloudposse/.github\` Repo"
+title "Use GitHub Action Workflows from \`itisopen/.github\` Repo"
 
 # We've implemented repository rulesets to replace this functionality
 # We don't care if it errors right now, as it might have already run.

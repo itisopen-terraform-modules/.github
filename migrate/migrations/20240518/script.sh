@@ -1,4 +1,4 @@
-title "Use GitHub Action Workflows from \`cloudposse/.github\` Repo"
+title "Use GitHub Action Workflows from \`itisopen/.github\` Repo"
 
 install_github_settings
 install .github/workflows

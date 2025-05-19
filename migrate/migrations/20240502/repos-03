@@ -1,5 +1,5 @@
-cloudposse/github-action-deploy-spacelift
-cloudposse/github-action-telemetry
-cloudposse/github-action-mega-linter
-cloudposse/github-action-datadog-notify
-cloudposse/github-action-pull-request-labeling
+itisopen/github-action-deploy-spacelift
+itisopen/github-action-telemetry
+itisopen/github-action-mega-linter
+itisopen/github-action-datadog-notify
+itisopen/github-action-pull-request-labeling

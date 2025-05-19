@@ -1,7 +1,7 @@
-cloudposse/terraform-example-module
-cloudposse/terraform-aws-eks-cluster
-cloudposse/terraform-aws-vpc
-cloudposse/terraform-aws-efs
-cloudposse/terraform-aws-backup
-cloudposse/terraform-aws-firewall-manager
-cloudposse/terraform-spacelift-cloud-infrastructure-automation
+itisopen/terraform-example-module
+itisopen/terraform-aws-eks-cluster
+itisopen/terraform-aws-vpc
+itisopen/terraform-aws-efs
+itisopen/terraform-aws-backup
+itisopen/terraform-aws-firewall-manager
+itisopen/terraform-spacelift-cloud-infrastructure-automation

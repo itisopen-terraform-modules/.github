@@ -1,7 +1,7 @@
-cloudposse/terraform-aws-cloudfront-s3-cdn
-cloudposse/terraform-aws-cloudfront-cdn
-cloudposse/terraform-aws-cicd
-cloudposse/terraform-aws-acm-request-certificate
-cloudposse/terraform-aws-ec2-ami-backup
-cloudposse/terraform-datadog-platform
-cloudposse/terraform-aws-batch
+itisopen/terraform-aws-cloudfront-s3-cdn
+itisopen/terraform-aws-cloudfront-cdn
+itisopen/terraform-aws-cicd
+itisopen/terraform-aws-acm-request-certificate
+itisopen/terraform-aws-ec2-ami-backup
+itisopen/terraform-datadog-platform
+itisopen/terraform-aws-batch
